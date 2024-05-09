@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, my name is Stefan Jesenko
+I'm a 17-year-old IMS student from Baden, Switzerland
 
-<!--
-**StefanJesenko/StefanJesenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## current occupation
+I'm currently in my 2 year of education at the IMS Baden to become a software engineer.
 
-Here are some ideas to get you started:
+## currently learning
+At the moment, I'm educating myself in the topic of AI, because this is the field that I want to work on and progress in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects at other schools
+
+In a SJF studyweek at USI Lugano I have worked on a Rock, Paper, Scissors AI that can recognise what sign you are showing with the camera, then there is an algorithem that is based on the previous moves that trys to predict the next move.
+[Project](https://github.com/LucaButera/StudyWeek2023)
+
+
+
