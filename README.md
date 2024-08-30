@@ -2,7 +2,7 @@
 I'm a 17-year-old IMS student from Baden, Switzerland
 
 ## current occupation
-I'm currently in my 2 year of education at the IMS Baden to become a software engineer.
+I'm currently in my 3 year of education at the IMS Baden to become a software engineer.
 
 ## currently learning
 In my free time I'm educating myself about the topic of AI, because this is the field that I want to work on and progress in the future.
