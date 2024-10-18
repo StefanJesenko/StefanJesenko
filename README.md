@@ -1,5 +1,5 @@
 ### Hello, my name is Stefan Jesenko
-I'm a 17-year-old IMS student from Baden, Switzerland
+I'm a 18-year-old IMS student from Baden, Switzerland
 
 ## current occupation
 I'm currently in my 3. year of education at the IMS Baden to become a software engineer.
