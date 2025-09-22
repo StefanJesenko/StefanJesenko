@@ -1,11 +1,11 @@
 ### Hello, my name is Stefan Jesenko
-I'm a 18-year-old IMS student from Baden, Switzerland
+I'm a 19-year-old Intern at Finnova Bankware AG in Lenzburg, Switzerland
 
 ## current occupation
-I'm currently in my 3. year of education at the IMS Baden to become a software engineer.
+I'm currently doing a 1 year internship at Finnova Bankware AG in Lenzburg
 
 ## currently learning
-In my free time I'm educating myself on the topics AI and frameworks like Angular and spring boot.
+In my free time I'm educating myself on topics like AI and languages, currently studying Chinese.
 
 ## Projects at other schools
 
